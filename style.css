@@ -73,7 +73,9 @@ a {
 
 .img-member {
     border-radius: 50%;
+    width: 250px;
     height: 250px;
+    object-fit: cover;
     margin: 10px;
     box-shadow: 0 0 5px 0;
     border:#eee;
