@@ -78,23 +78,29 @@ p {
 .banner {
     display: flex;
     justify-content: center;
+    background: linear-gradient(#343434, #eee);
+    padding: 0 px;
 }
 
 .banner-img {
     display: block;
     max-width: 100%;
     max-height: 50%;
+    border-style: solid;
+    border-color: #eee;
+    border-width: 10px;
+    box-shadow: 0 5px 5px 0 #b8b8b8;
 }
 
 .container {
     margin: 0 auto;
     max-width: 1000px;
-    padding: 0 10px;
+    padding: 0 25px;
 }
 
 footer {
     text-align: center;
-    color: #eee;
+    color: hsl(0, 0%, 50%);
     background-color: #343434;
     padding: 10px;
 }
