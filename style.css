@@ -63,12 +63,13 @@ p {
 .member-info {
     flex-grow: 1;
     width: 300px;
+    margin: 10px;
 }
 
 .img-member {
     border-radius: 50%;
     height: 250px;
-    margin: 25px;
+    margin: 10px;
     box-shadow: 0 0 5px 0;
     border:#eee;
     border-width: 5px;
@@ -90,6 +91,7 @@ p {
     border-color: #eee;
     border-width: 10px;
     box-shadow: 0 5px 5px 0 #b8b8b8;
+    margin: -10px;
 }
 
 .container {
