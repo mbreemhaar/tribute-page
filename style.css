@@ -44,6 +44,11 @@ p {
     font-size: 14pt;
 }
 
+a {
+    color:hsl(0, 0%, 75%);
+    text-decoration: none;
+}
+
 .member {
     display: flex;
     flex-wrap: wrap;
