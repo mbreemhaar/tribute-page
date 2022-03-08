@@ -106,6 +106,10 @@ a {
     margin: -10px;
 }
 
+figcaption {
+    margin-top: 15px;
+}
+
 .container {
     margin: 0 auto;
     max-width: 1000px;
